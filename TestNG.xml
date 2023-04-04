@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+<parameter name="" value =""/>
+  <test name="Automation-Lava-mobile">
+    <classes>
+      <class name=""/>
+    </classes>
+  </test> 
+</suite> 
